@@ -7,67 +7,67 @@ const comments = {
   ],
   "BAcyDyQwcXX":[
     {
-      "text":"Wes. WE should have lunch.",
-      "user": "jdaveknox"
+      "text":"Great solution!",
+      "user": "jdave"
     },
     {
-      "text":"#adults",
-      "user": "jdaveknox"
+      "text":"Super cool",
+      "user": "jdave"
     },
     {
-      "text":"@jdaveknox yes!",
-      "user": "wesbos"
+      "text":"I need too try this",
+      "user": "sally"
     },
     {
-      "text":"😍 love Hamilton!",
+      "text":"😍 love!",
       "user": "willowtreemegs"
     }
   ],
   "BAPIPRjQce9":[
     {
-      "text":"Those are cute! They're like silver dollar pancakes.",
+      "text":"you have a typo on line 12",
       "user": "rrsimonsen"
     },
     {
-      "text":"I like baby pancakes but gluten free please!! I'll bring the coffee!! See you in 6 days!!!!!! 😝😛😝♥️",
+      "text":"I like it. If you made ... change on line 12 it would be even better!😝😛😝♥️",
       "user": "terzisn"
     },
     {
-      "text":"... and apparently growing baby. 👀. Yum.",
+      "text":"... dope code 👀.",
       "user": "henrihelvetica"
     },
     {
-      "text":"@wesbos 👍 my daughter is a pancake eating machine!",
+      "text":"👍",
       "user": "brentoage"
     },
     {
-      "text":"Nice stove!",
+      "text":"Nice solution!",
       "user": "haaps"
     },
     {
-      "text":"Genius bottle use! Do you make a single batch of batter or make a lot and freeze it?",
+      "text":"Genius!",
       "user": "gobananna"
     },
     {
-      "text":"@gobananna I just made a batch and put in in a FIFO bottle. Keeps in the fridge for a few days.",
+      "text":"@gobananna I just made it",
       "user": "wesbos"
     },
     {
-      "text":"@haaps thanks! It's a Jenn air - so nice to cool with!",
+      "text":"@haaps thanks!",
       "user": "wesbos"
     },
     {
-      "text":"Where would you go and for how long, if you had location freedom? - Greg 🌎",
-      "user": "world_greg"
+      "text":"Amazing",
+      "user": "greg"
     }
   ],
   "BAF_KY4wcRY":[
     {
-      "text":"Looking great Wes! I'd like to see the other side of the room too.",
+      "text":"Looking great!",
       "user": "axcdnt"
     },
     {
-      "text":"I've never caught your podcast. Have one right? Btw - they don't have a Canary pillow? 😝",
+      "text":"I have to try this😝",
       "user": "henrihelvetica"
     },
     {
@@ -87,12 +87,12 @@ const comments = {
       "user": "imagesofthisandthat"
     },
     {
-      "text":"@wesbos is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.",
+      "text":"Very well written, I like it!",
       "user": "henrihelvetica"
     },
     {
-      "text":"#minimalsetups",
-      "user": "wesbos"
+      "text":"#minimalcode",
+      "user": "willow"
     }
   ],
   "_4jHytwcUA":[
@@ -103,11 +103,11 @@ const comments = {
   ],
   "_zbaOlQcbn":[
     {
-      "text":"Did she get to eat her letter?",
+      "text":"I don't get it?",
       "user": "pathiebert"
     },
     {
-      "text":"Nope @pathiebert! She has too much teeth now (8) so that would definitely be her first cavity 😉",
+      "text":"Incredible, why didnt I think of that😉",
       "user": "kaitbos"
     }
   ],
@@ -117,13 +117,13 @@ const comments = {
       "user": "mrjoedee"
     },
     {
-      "text":"I recently went to a ramen place in Philly. So amazing!",
+      "text":"So amazing!",
       "user": "jrtashjian"
     }
   ],
   "_ep9kiQcVy":[
     {
-      "text":"All bundled up!  Where ya goin?",
+      "text":"Looks good!",
       "user": "sophie_and_sadie"
     }
   ],
@@ -172,15 +172,15 @@ const comments = {
   ],
   "1rhFawccs":[
     {
-      "text":"What's your lighting source?",
+      "text":"What's your text editor?",
       "user": "seth_mcleod"
     },
     {
-      "text":"And what are you using for XLR mix adapter? I found a big price jump between $55 range and $170 range.",
+      "text":"And what are you using for...",
       "user": "pmgllc"
     },
     {
-      "text":"I still need a desk boom for mine mic. Nice upgrades",
+      "text":"I still need figure out how that works",
       "user": "stolinski"
     }
   ],
@@ -189,7 +189,7 @@ const comments = {
   ],
   "oTZ0zQcWt":[
     {
-      "text":"Love the coat! Where's it from? Lol",
+      "text":"Love it",
       "user": "_lindersss"
     }
   ],
@@ -232,7 +232,7 @@ const comments = {
       "user": "henrihelvetica"
     },
     {
-      "text":"Love this house during the holidays! And all other times of the year...",
+      "text":"Love this",
       "user": "danielleplas"
     }
   ],
@@ -252,27 +252,27 @@ const comments = {
   ],
   "FpTyHQcau":[
     {
-      "text":"@kaitbos  that vest!!! 😍",
+      "text":"😍",
       "user": "courtneyeveline"
     },
     {
-      "text":"I just love her! @kaitbos",
+      "text":"I just love it!",
       "user": "kalibrix"
     },
     {
-      "text":"@courtneyeveline I know! My friend gave it to her and I wanted a matching one but only Lux can pull it off. She's so fancy 😉",
+      "text":"Fancy 😉",
       "user": "kaitbos"
     },
     {
-      "text":"Char has that vest!!! Super cute!",
+      "text":"Cool",
       "user": "jennlensink"
     },
     {
-      "text":"You'll have to meet her soon @kalibrix!!",
+      "text":"How did you do that?!!",
       "user": "kaitbos"
     },
     {
-      "text":"Haha @kaitbos so true, babies these days are sooo stylish. 😎",
+      "text":"Haha thats cool😎",
       "user": "courtneyeveline"
     },
     {
@@ -280,17 +280,17 @@ const comments = {
       "user": "lucascaixeta"
     },
     {
-      "text":"That hoodie is amazing! Where did you get it?",
+      "text":"That is amazing!",
       "user": "br11x"
     },
     {
-      "text":"@br11x I did a teespring a few months ago - maybe I'll do another one soon",
+      "text":"Did you build this yourself",
       "user": "wesbos"
     }
   ],
   "B3eiIwcYV":[
     {
-      "text":"If you get in the mood for authentic Italian pizza, check out @backspaceaustin - it's👌🏻",
+      "text":"It's👌🏻",
       "user": "dessie.ann"
     },
     {
